@@ -1,0 +1,35 @@
+.nav img{
+    width: 120.26px;
+    background-color: aliceblue;
+    
+    
+  }
+
+
+.nav{
+    margin-left: 200px;
+    color: black;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    color: black;
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+  }
+
+  .login-btn{
+    width: 104px;
+    height: 40px;
+    left: 1192px;
+    top: 39px;
+    background: #F9A51A;
+    border-radius: 5px;
+    border: none;
+  }
+  

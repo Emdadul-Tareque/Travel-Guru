@@ -1,0 +1,30 @@
+.room{
+    display: flex;
+    margin-left: 250px;
+    padding: 5px;
+    
+    
+}
+
+.room-pic img{
+    width: 250px;
+    height: 168px;
+    background: #C4C4C4;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.room-details{
+    margin-left: 30px;
+    
+    
+}
+
+.room-details p{
+    color:gray;
+}
+
+.room-details img{
+    height: 15px;
+    width: 15px;
+}
